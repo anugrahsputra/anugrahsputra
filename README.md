@@ -20,8 +20,8 @@
 
 ### 🤝 Connect with me:
     
-<a href="https://www.linkedin.com/in/anugrahsputra/" target="_blank">![LinkedIn](https://img.shields.io/badge/anugrahsputra-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
-<a href="https://www.instagram.com/downormal/" target="_blank">![Instagram](https://img.shields.io/badge/downormal-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/anugrahsputra/" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/anugrahsputra-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+<a href="https://www.instagram.com/downormal/" target="_blank" rel="noopener noreferrer">![Instagram](https://img.shields.io/badge/downormal-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
 
 
 
