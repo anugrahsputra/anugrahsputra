@@ -49,8 +49,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/anugrahsputra/anugrahsputra"><img alt="Downormall's Github Stats" src="https://github-readme-stats.vercel.app/api?username=downormall&show_icons=true&count_private=true&theme=moltack&hide_border=true" /></a>
-  <a href="https://github.com/anugrahsputra/anugrahsputra"><img alt="Downormal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=downormall&langs_count=8&count_private=true&layout=compact&theme=moltack&hide_border=true&hide=c%23,ShaderLab" /></a>
+    <a href="https://github.com/anugrahsputra/anugrahsputra"><img alt="Downormall's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anugrahsputra&show_icons=true&count_private=true&theme=moltack&hide_border=true" /></a>
+  <a href="https://github.com/anugrahsputra/anugrahsputra"><img alt="Downormal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anugrahsputra&langs_count=8&count_private=true&layout=compact&theme=moltack&hide_border=true&hide=c%23,ShaderLab" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
