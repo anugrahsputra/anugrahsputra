@@ -4,7 +4,7 @@
 
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=downormall">
+    <img src="https://komarev.com/ghpvc/?username=anugrahsputra">
 </a>
 
 <div align = "left" width = 50%>
