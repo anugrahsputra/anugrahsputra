@@ -1,5 +1,5 @@
 <h1 align ="center">Hi,<img src ="https://drive.google.com/uc?export=view&id=1hdtPYtcno6Z9owg3qrWxBZ-csBM5Dy0W"width = 35> I'm Anugrah Surya Putra</h1>
-<h3 align = "center">Mobile App Developer | Front-End Developer | Student</h3>
+<h3 align = "center">Mobile App Developer | Front-End Developer</h3>
 
 
 
