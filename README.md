@@ -11,8 +11,8 @@
 
 <br>
 <ul>
-<li>I love to learn to code in differnt languages</li>
-<li>I’m currently learning flutter</li>
+<li>I'm a junior mobile dev</li>
+<li>I use flutter to build mobile apps</li>
 <br>
 <ul>
 </div>
