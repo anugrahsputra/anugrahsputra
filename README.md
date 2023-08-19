@@ -32,6 +32,7 @@
   <br/>
     <a href="https://github.com/anugrahsputra/anugrahsputra"><img alt="Downormall's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anugrahsputra&show_icons=true&count_private=true&theme=moltack&hide_border=true" /></a>
   <a href="https://github.com/anugrahsputra/anugrahsputra"><img alt="Downormal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anugrahsputra&langs_count=8&count_private=false&layout=compact&theme=moltack&hide_border=true&hide=c%23,ShaderLab" /></a>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anugrahsputra&" alt="anugrahsputra" /></p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
