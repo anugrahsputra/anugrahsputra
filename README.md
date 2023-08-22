@@ -1,5 +1,5 @@
 <h1 align ="center">Hi, I'm Anugrah Surya Putra</h1>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F7F7F7&width=435&lines=Mobile+Apps+Developer;Front-end+Developer" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=800&color=F7F7F7&center=true&vCenter=true&width=435&lines=Mobile+Apps+Developer;Front-end+Developer" alt="Typing SVG" /></a></p>
 
 
 
