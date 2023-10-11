@@ -1,6 +1,6 @@
 [![Header](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](anugrahsputra.github.io)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, I'm Anugrah Surya Putra</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />, I'm Anugrah Surya Putra</h1>
 <h3 align="center">I build apps with Flutter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anugrahsputra&label=Profile%20views&color=0e75b6&style=plastic" alt="anugrahsputra" /> </p>
