@@ -1,40 +1,38 @@
-<h1 align ="center">Hi, I'm Anugrah Surya Putra</h1>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=800&color=F7F7F7&center=true&vCenter=true&width=435&lines=Mobile+Apps+Developer;Front-end+Developer" alt="Typing SVG" /></a></p>
+[![Header](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](anugrahsputra.github.io)
+
+<h1 align="center">Hi 👋, I'm Anugrah Surya Putra</h1>
+<h3 align="center">I build apps with Flutter</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anugrahsputra&label=Profile%20views&color=0e75b6&style=plastic" alt="anugrahsputra" /> </p>
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif"/>
 
 
+- 🔭 I’m currently working **as a freelancer**
 
+- 👨‍💻 All of my projects are available at [https://anugrahsputra.github.io](https://anugrahsputra.github.io)
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=anugrahsputra">
-</a>
+- 💬 Ask me about **Flutter, Dart, or anything**
 
-<div align = "left" width = 50%>
+- 📫 How to reach me **anugrahsputra@gmail.com**
 
-<br>
-<ul>
-<li>I'm a junior mobile dev</li>
-<li>I use flutter to build mobile apps</li>
-<br>
-<ul>
-</div>
+- 📄 Know about my experiences [https://anugrahsputra.github.io](https://anugrahsputra.github.io)
 
+- ⚡ Fun fact **I play osu!std**
 
-### 🤝 Connect with me:
-    
-<a href="https://www.linkedin.com/in/anugrahsputra/" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/anugrahsputra-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
-<a href="https://www.instagram.com/downormal/" target="_blank" rel="noopener noreferrer">![Instagram](https://img.shields.io/badge/downormal-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/downormal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="downormal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anugrahsputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anugrahsputra" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anugrahsputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anugrahsputra" height="30" width="40" /></a>
+</p>
 
-## Tools And Techs
-    
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-## 📊 My Github Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anugrahsputra&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="anugrahsputra" /></p>
 
-  <br/>
-    <a href="https://github.com/anugrahsputra/anugrahsputra"><img alt="Downormall's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anugrahsputra&show_icons=true&count_private=true&theme=moltack&hide_border=true" /></a>
-  <a href="https://github.com/anugrahsputra/anugrahsputra"><img alt="Downormal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anugrahsputra&langs_count=8&count_private=false&layout=compact&theme=moltack&hide_border=true&hide=c%23,ShaderLab" /></a>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anugrahsputra&" alt="anugrahsputra" /></p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anugrahsputra&show_icons=true&theme=tokyonight&locale=en" alt="anugrahsputra" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anugrahsputra&" alt="anugrahsputra" /></p>
 
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
