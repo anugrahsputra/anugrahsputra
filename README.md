@@ -32,7 +32,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart       11 mins         ██████████████▓░░░░░░░░░░   58.79 %
+GDScript   7 mins          ██████████▒░░░░░░░░░░░░░░   41.21 %
 ```
 
 <!--END_SECTION:waka-->
