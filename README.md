@@ -39,20 +39,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 141.7 kB Used in GitHub's Storage 
- > 
-> 🏆 254 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 35 Public Repositories 
- > 
-> 🔑 8 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -77,8 +63,6 @@ Sunday                   172 commits         █████░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
-
 💬 Programming Languages: 
 Dart                     2 hrs 45 mins       ███████████████████░░░░░░   76.79 % 
 XML                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
@@ -88,9 +72,6 @@ GDScript                 7 mins              █░░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  3 hrs 35 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-get_wallpaper            3 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Windows                  3 hrs 35 mins       █████████████████████████   100.00 % 
@@ -108,12 +89,8 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/anugrahsputra/anugrahsputra/main/assets/bar_graph.png)
-
-
- Last Updated on 15/10/2023 11:32:32 UTC
+ Last Updated on 15/10/2023 11:34:26 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
