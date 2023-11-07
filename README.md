@@ -7,7 +7,7 @@
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif"/>
 
 
-- 🔭 I’m currently working **as a Mobile Developer**
+- 🔭 I’m **a Mobile Developer**
 
 - 👨‍💻 All of my projects are available at [https://anugrahsputra.github.io](https://anugrahsputra.github.io)
 
