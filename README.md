@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://anugrahsputra.github.io](https://anugrahsputra.github.io)
 
-- ⚡ Fun fact **Australia is wider than the moon.**
+- ⚡ Fun fact **You cannot lick your own elbows**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
