@@ -31,6 +31,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-485%20hrs%205%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -67,7 +69,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2024 22:43:26 UTC
+ Last Updated on 15/04/2024 17:08:17 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
