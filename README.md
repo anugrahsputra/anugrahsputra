@@ -1,7 +1,7 @@
 
 
 <h1 align="center">hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />, I'm Putra</h1>
-<h3 align="center">and i build mobile apps with Flutter</h3>
+<h3 align="center">and i build mobile apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anugrahsputra&label=Profile%20views&color=0e75b6&style=plastic" alt="anugrahsputra" /> </p>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif"/>
