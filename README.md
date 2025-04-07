@@ -35,7 +35,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C532%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C533%20hrs%2011%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -51,10 +51,11 @@
 
 ```text
 💬 Programming Languages: 
-Kotlin                   1 hr 37 mins        █████████████████████████   100.00 % 
+Kotlin                   2 hrs 37 mins       █████████████████████████   99.71 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-Android Studio           1 hr 37 mins        █████████████████████████   100.00 % 
+Android Studio           2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -70,7 +71,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2025 17:10:00 UTC
+ Last Updated on 07/04/2025 17:11:43 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
