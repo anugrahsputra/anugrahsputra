@@ -35,6 +35,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C000%20hrs%2057%20mins-blue)
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -48,7 +50,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 17:11:22 UTC
+ Last Updated on 04/10/2025 17:09:58 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
