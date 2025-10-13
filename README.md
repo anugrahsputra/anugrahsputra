@@ -9,7 +9,7 @@
 
 - 🔭 I’m **a Mobile Developer**
 
-- 👨‍💻 All of my projects are available at [itsyourboyputra.vercel.app](https://itsyourboyputra.vercel.app)
+- 👨‍💻 All of my projects are available at [itsyourboyputra.is-a.dev](https://itsyourboyputra.is-a.dev)
 
 - 🌱 I’m currently learning Kotlin Multiplatform
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **anugrahsputra@gmail.com**
 
-- 📄 Know about my experiences [https://anugrahsputra.webflow.io](https://anugrahsputra.webflow.io)
+- 📄 Know about my experiences [itsyourboyputra.is-a.dev](https://itsyourboyputra.is-a.dev/#experience)
 
 - ⚡ Fun fact **You cannot lick your own elbows**
 
