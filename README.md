@@ -38,17 +38,17 @@
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     33 repos            █████████░░░░░░░░░░░░░░░░   37.08 % 
-Kotlin                   14 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Dart                     33 repos            █████████░░░░░░░░░░░░░░░░   36.67 % 
+Kotlin                   15 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Go                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 
 
 
 
- Last Updated on 02/01/2026 17:12:56 UTC
+ Last Updated on 03/01/2026 17:12:35 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
