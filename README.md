@@ -9,7 +9,7 @@
 
 - 🔭 I’m **a Mobile Developer**
 
-- 👨‍💻 All of my projects are available at [itsyourboiputra.is-a.dev](https://downormal.dev)
+- 👨‍💻 All of my projects are available at [downormal.dev](https://downormal.dev)
 
 - 🌱 I’m currently learning Kotlin Multiplatform
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **anugrahsputra@gmail.com**
 
-- 📄 Know about my experiences [itsyourboiputra.is-a.dev](https://downormal.dev/#experience)
+- 📄 Know about my experiences [downormal.dev](https://downormal.dev/#experience)
 
 - ⚡ Fun fact **You cannot lick your own elbows**
 
