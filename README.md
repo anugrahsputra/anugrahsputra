@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [downormal.dev](https://downormal.dev)
 
-- 🌱 I’m currently learning Kotlin Multiplatform
+- 🌱 I’m currently learning Kotlin Multiplatform and Golang
 
 - 💬 Ask me about **Flutter, Dart, or anything**
 
