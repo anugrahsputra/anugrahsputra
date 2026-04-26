@@ -35,15 +35,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C830%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C834%20hrs%2053%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                425 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-🌆 Daytime                533 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-🌃 Evening                863 commits         ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-🌙 Night                  1070 commits        █████████░░░░░░░░░░░░░░░░   37.01 % 
+🌞 Morning                425 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+🌆 Daytime                535 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+🌃 Evening                863 commits         ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+🌙 Night                  1072 commits        █████████░░░░░░░░░░░░░░░░   37.03 % 
 ```
 
 
@@ -51,33 +51,33 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     12 hrs 52 mins      ███████████████░░░░░░░░░░   58.23 % 
-Go                       2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Markdown                 1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Other                    1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Lua                      1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Dart                     12 hrs 52 mins      ██████████████░░░░░░░░░░░   54.02 % 
+Kotlin                   3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Markdown                 1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Other                    1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Go                       1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 
 🔥 Editors: 
-Neovim                   19 hrs 52 mins      ██████████████████████░░░   89.90 % 
-Android Studio           1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-VS Code                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Unknown Editor           14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Neovim                   18 hrs 35 mins      ████████████████████░░░░░   78.05 % 
+Android Studio           4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Unknown Editor           14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     34 repos            █████████░░░░░░░░░░░░░░░░   34.69 % 
-Kotlin                   15 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Go                       12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Dart                     34 repos            █████████░░░░░░░░░░░░░░░░   34.34 % 
+Kotlin                   16 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Go                       12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 
 
 
 
- Last Updated on 25/04/2026 17:33:12 UTC
+ Last Updated on 26/04/2026 17:33:07 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
