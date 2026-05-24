@@ -35,20 +35,47 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C976%20hrs%2059%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                425 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+🌆 Daytime                541 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+🌃 Evening                875 commits         ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+🌙 Night                  1093 commits        █████████░░░░░░░░░░░░░░░░   37.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Dart                     22 hrs 45 mins      █████████████████████░░░░   82.18 % 
+netrw                    2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+env                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+
+🔥 Editors: 
+Neovim                   26 hrs 49 mins      ████████████████████████░   96.81 % 
+Android Studio           52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+```
+
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     34 repos            █████████░░░░░░░░░░░░░░░░   34.34 % 
-Kotlin                   16 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Go                       12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Dart                     35 repos            █████████░░░░░░░░░░░░░░░░   35.00 % 
+Kotlin                   16 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Go                       12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 
 
 
 
- Last Updated on 23/05/2026 17:56:35 UTC
+ Last Updated on 24/05/2026 17:54:41 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
