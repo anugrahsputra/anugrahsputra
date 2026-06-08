@@ -35,20 +35,49 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C024%20hrs%2020%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                424 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+🌆 Daytime                547 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+🌃 Evening                887 commits         ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+🌙 Night                  1107 commits        █████████░░░░░░░░░░░░░░░░   37.34 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Dart                     16 hrs 21 mins      ███████████████████░░░░░░   74.37 % 
+Go                       3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+netrw                    1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+
+🔥 Editors: 
+Neovim                   20 hrs 17 mins      ███████████████████████░░   92.25 % 
+Android Studio           56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+VS Code                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Codex CLI                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+```
+
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     36 repos            █████████░░░░░░░░░░░░░░░░   35.64 % 
-Kotlin                   16 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Go                       12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Dart                     36 repos            █████████░░░░░░░░░░░░░░░░   35.29 % 
+Kotlin                   16 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Go                       12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
 
 
- Last Updated on 07/06/2026 18:00:24 UTC
+ Last Updated on 08/06/2026 19:17:26 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
