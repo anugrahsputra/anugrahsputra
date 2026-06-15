@@ -35,15 +35,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C053%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C054%20hrs%2016%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                424 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-🌆 Daytime                547 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-🌃 Evening                888 commits         ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-🌙 Night                  1107 commits        █████████░░░░░░░░░░░░░░░░   37.32 % 
+🌞 Morning                424 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+🌆 Daytime                547 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+🌃 Evening                892 commits         ███████░░░░░░░░░░░░░░░░░░   29.89 % 
+🌙 Night                  1121 commits        █████████░░░░░░░░░░░░░░░░   37.57 % 
 ```
 
 
@@ -51,33 +51,32 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     25 hrs 28 mins      █████████████████████░░░░   84.29 % 
-Markdown                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Go                       1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Dart                     30 hrs 52 mins      ███████████████████████░░   91.27 % 
+Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+YAML                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-Neovim                   27 hrs 11 mins      ███████████████████████░░   90.01 % 
-Claude Code              2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Codex CLI                27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Neovim                   28 hrs 41 mins      █████████████████████░░░░   84.83 % 
+Claude Code              5 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Codex CLI                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     36 repos            █████████░░░░░░░░░░░░░░░░   35.29 % 
-Kotlin                   16 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Go                       12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Dart                     37 repos            █████████░░░░░░░░░░░░░░░░   35.92 % 
+Kotlin                   16 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Go                       12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 ```
 
 
 
 
- Last Updated on 14/06/2026 18:09:29 UTC
+ Last Updated on 15/06/2026 20:23:40 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
