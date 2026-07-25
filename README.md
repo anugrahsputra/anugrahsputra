@@ -35,6 +35,36 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C301%20hrs%204%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                431 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+🌆 Daytime                554 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+🌃 Evening                921 commits         ████████░░░░░░░░░░░░░░░░░   30.08 % 
+🌙 Night                  1156 commits        █████████░░░░░░░░░░░░░░░░   37.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Dart                     30 hrs 11 mins      █████████████████░░░░░░░░   68.31 % 
+Markdown                 7 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+YAML                     3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Go                       35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Python                   31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+
+🔥 Editors: 
+Claude Code              23 hrs 11 mins      █████████████░░░░░░░░░░░░   52.48 % 
+Neovim                   20 hrs 21 mins      ████████████░░░░░░░░░░░░░   46.06 % 
+Codex CLI                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Antigravity CLI          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Android Studio           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -48,7 +78,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 18:13:05 UTC
+ Last Updated on 25/07/2026 17:53:03 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
