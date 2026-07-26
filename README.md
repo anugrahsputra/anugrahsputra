@@ -51,18 +51,18 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     30 hrs 11 mins      █████████████████░░░░░░░░   68.31 % 
-Markdown                 7 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-YAML                     3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-Go                       35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Python                   31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Dart                     29 hrs 7 mins       █████████████████░░░░░░░░   67.87 % 
+Markdown                 7 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+YAML                     3 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Go                       35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Python                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 11 mins      █████████████░░░░░░░░░░░░   52.48 % 
-Neovim                   20 hrs 21 mins      ████████████░░░░░░░░░░░░░   46.06 % 
-Codex CLI                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Antigravity CLI          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Android Studio           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Claude Code              22 hrs 26 mins      █████████████░░░░░░░░░░░░   52.32 % 
+Neovim                   19 hrs 48 mins      ████████████░░░░░░░░░░░░░   46.18 % 
+Codex CLI                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Antigravity CLI          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Android Studio           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -78,7 +78,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 17:53:03 UTC
+ Last Updated on 26/07/2026 17:56:09 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
