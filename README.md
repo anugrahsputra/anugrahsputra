@@ -35,64 +35,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C270%20hrs%2022%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-223%20hrs%2031%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                431 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-🌆 Daytime                554 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-🌃 Evening                921 commits         ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-🌙 Night                  1171 commits        ██████████░░░░░░░░░░░░░░░   38.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Dart                     28 hrs 53 mins      █████████████████░░░░░░░░   68.63 % 
-Markdown                 7 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-YAML                     3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Go                       35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-XML                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-
-🔥 Editors: 
-Claude Code              22 hrs 43 mins      █████████████░░░░░░░░░░░░   53.97 % 
-Neovim                   18 hrs 52 mins      ███████████░░░░░░░░░░░░░░   44.86 % 
-Codex CLI                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Antigravity CLI          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Android Studio           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 28 hrs 27 mins (67.63%)
-
-✍️ 26,048 lines written by AI, 6,107 lines written by hand (81.01% AI-written)
-
-🔤 435,596,914 Input Tokens, 2,381,209 Output Tokens
-
-💵 $1835.76 Estimated AI Cost This Week
-
-🧠 73 AI Sessions, 310 AI Prompts
-
-Opus                     18,625 lines        ████████████████████░░░░░   79.76 % 
-Sonnet                   3,553 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Deepseek                 461 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-GPT                      381 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Haiku                    323 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 81.01% of written lines came from AI
-📄 Detailed Prompter — average 1,105 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 24.55% of changed lines were hand-edited
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -106,7 +48,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 18:20:07 UTC
+ Last Updated on 28/07/2026 18:09:41 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
