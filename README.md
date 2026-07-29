@@ -35,6 +35,63 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C283%20hrs%2059%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-232%20hrs%2010%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                431 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+🌆 Daytime                554 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+🌃 Evening                921 commits         ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+🌙 Night                  1171 commits        ██████████░░░░░░░░░░░░░░░   38.06 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Dart                     30 hrs 4 mins       ███████████████████░░░░░░   74.32 % 
+Markdown                 6 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+YAML                     2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+XML                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Go                       17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+
+🔥 Editors: 
+Claude Code              21 hrs 31 mins      █████████████░░░░░░░░░░░░   53.17 % 
+Neovim                   18 hrs 46 mins      ████████████░░░░░░░░░░░░░   46.40 % 
+Antigravity CLI          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 26 hrs 15 mins (64.87%)
+
+✍️ 21,486 lines written by AI, 5,447 lines written by hand (79.78% AI-written)
+
+🔤 407,494,713 Input Tokens, 2,027,209 Output Tokens
+
+💵 $1749.36 Estimated AI Cost This Week
+
+🧠 66 AI Sessions, 335 AI Prompts
+
+Opus                     15,290 lines        █████████████████████░░░░   85.38 % 
+Sonnet                   1,826 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Deepseek                 461 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Haiku                    323 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Gemini                   8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 79.78% of written lines came from AI
+📄 Detailed Prompter — average 709 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 25.15% of changed lines were hand-edited
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -48,7 +105,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 18:09:41 UTC
+ Last Updated on 29/07/2026 18:03:45 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
