@@ -35,9 +35,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C302%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C302%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-240%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-240%20hrs%2059%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -53,23 +53,24 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     28 hrs 1 min        █████████████████████░░░░   82.52 % 
-Markdown                 2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Dart                     28 hrs 1 min        █████████████████████░░░░   82.15 % 
+Markdown                 2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Go                       22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 Lua                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-tmux                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-Neovim                   19 hrs 26 mins      ██████████████░░░░░░░░░░░   57.27 % 
-Claude Code              14 hrs 22 mins      ███████████░░░░░░░░░░░░░░   42.36 % 
+Neovim                   19 hrs 34 mins      ██████████████░░░░░░░░░░░   57.41 % 
+Claude Code              14 hrs 22 mins      ███████████░░░░░░░░░░░░░░   42.17 % 
 VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 Android Studio           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 6 mins (56.29%)
+⏱ AI Coding Time: 19 hrs 7 mins (56.09%)
 
 ✍️ 12,884 lines written by AI, 2,718 lines written by hand (82.58% AI-written)
 
@@ -77,14 +78,14 @@ Android Studio           1 min               ░░░░░░░░░░░�
 
 💵 $1097.72 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 257 AI Prompts
+🧠 55 AI Sessions, 259 AI Prompts
 
 Opus                     12,900 lines        ████████████████████████░   96.83 % 
 Sonnet                   422 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 82.58% of written lines came from AI
-📄 Detailed Prompter — average 637 characters per prompt
+📄 Detailed Prompter — average 632 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 21.87% of changed lines were hand-edited
 ```
@@ -102,7 +103,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 17:54:42 UTC
+ Last Updated on 02/08/2026 17:55:23 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
