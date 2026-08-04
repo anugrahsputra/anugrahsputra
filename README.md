@@ -53,41 +53,41 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     28 hrs 1 min        █████████████████████░░░░   82.15 % 
-Markdown                 2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Go                       22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Lua                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Dart                     25 hrs 37 mins      ████████████████████░░░░░   81.60 % 
+Markdown                 3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Lua                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+tmux                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-Neovim                   19 hrs 34 mins      ██████████████░░░░░░░░░░░   57.41 % 
-Claude Code              14 hrs 22 mins      ███████████░░░░░░░░░░░░░░   42.17 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-Android Studio           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Neovim                   21 hrs 17 mins      █████████████████░░░░░░░░   67.81 % 
+Claude Code              9 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.73 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Android Studio           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 7 mins (56.09%)
+⏱ AI Coding Time: 13 hrs 34 mins (43.25%)
 
-✍️ 12,884 lines written by AI, 2,718 lines written by hand (82.58% AI-written)
+✍️ 9,528 lines written by AI, 2,908 lines written by hand (76.62% AI-written)
 
-🔤 223,963,276 Input Tokens, 1,205,776 Output Tokens
+🔤 141,684,038 Input Tokens, 881,149 Output Tokens
 
-💵 $1097.72 Estimated AI Cost This Week
+💵 $705.30 Estimated AI Cost This Week
 
-🧠 55 AI Sessions, 259 AI Prompts
+🧠 43 AI Sessions, 187 AI Prompts
 
-Opus                     12,900 lines        ████████████████████████░   96.83 % 
-Sonnet                   422 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Opus                     9,967 lines         █████████████████████████   99.94 % 
+Sonnet                   6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.58% of written lines came from AI
-📄 Detailed Prompter — average 632 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 21.87% of changed lines were hand-edited
+🤖 AI-Driven — 76.62% of written lines came from AI
+📄 Detailed Prompter — average 718 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 29.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -103,7 +103,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 17:55:23 UTC
+ Last Updated on 04/08/2026 18:25:01 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
