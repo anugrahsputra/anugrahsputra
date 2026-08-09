@@ -53,32 +53,31 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     26 hrs 18 mins      ████████████████████░░░░░   81.36 % 
-Markdown                 3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-YAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Python                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Dart                     26 hrs 18 mins      ████████████████████░░░░░   81.99 % 
+Markdown                 3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+YAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Python                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-Neovim                   22 hrs 44 mins      ██████████████████░░░░░░░   70.33 % 
-Claude Code              9 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-Android Studio           25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Neovim                   22 hrs 33 mins      ██████████████████░░░░░░░   70.29 % 
+Claude Code              9 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.19 % 
+Android Studio           25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 Mcp Wakatime             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs (37.15%)
+⏱ AI Coding Time: 11 hrs 57 mins (37.24%)
 
 ✍️ 15,914 lines written by AI, 6,045 lines written by hand (72.47% AI-written)
 
-🔤 156,725,764 Input Tokens, 1,071,895 Output Tokens
+🔤 156,632,854 Input Tokens, 1,071,417 Output Tokens
 
-💵 $740.23 Estimated AI Cost This Week
+💵 $740.13 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 131 AI Prompts
+🧠 39 AI Sessions, 125 AI Prompts
 
 Opus                     16,618 lines        █████████████████████████   99.12 % 
 Sonnet                   148 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
@@ -87,7 +86,7 @@ Mcp-Wakatime             0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 72.47% of written lines came from AI
-📚 Verbose Prompter — average 2,115 characters per prompt
+📚 Verbose Prompter — average 2,213 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 32.67% of changed lines were hand-edited
 ```
@@ -105,7 +104,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 17:22:38 UTC
+ Last Updated on 09/08/2026 17:23:43 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
