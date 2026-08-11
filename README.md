@@ -35,9 +35,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C337%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C344%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-253%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-260%20hrs%2010%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -53,39 +53,39 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     29 hrs 52 mins      █████████████████████░░░░   85.63 % 
-Markdown                 2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-YAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Lua                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Python                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Dart                     28 hrs 20 mins      ████████████████████░░░░░   78.64 % 
+Markdown                 4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+YAML                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Go                       38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Python                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-Neovim                   24 hrs 51 mins      ██████████████████░░░░░░░   71.27 % 
-Claude Code              9 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.11 % 
-Android Studio           33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Neovim                   21 hrs 45 mins      ███████████████░░░░░░░░░░   60.38 % 
+Claude Code              13 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   38.05 % 
+Android Studio           33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 56 mins (37.1%)
+⏱ AI Coding Time: 18 hrs 1 min (50.02%)
 
-✍️ 11,253 lines written by AI, 6,679 lines written by hand (62.75% AI-written)
+✍️ 16,586 lines written by AI, 5,905 lines written by hand (73.75% AI-written)
 
-🔤 159,431,365 Input Tokens, 1,004,163 Output Tokens
+🔤 233,192,310 Input Tokens, 1,435,260 Output Tokens
 
-💵 $779.29 Estimated AI Cost This Week
+💵 $1098.98 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 128 AI Prompts
+🧠 43 AI Sessions, 192 AI Prompts
 
-Opus                     12,150 lines        █████████████████████████   98.80 % 
-Sonnet                   148 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Opus                     12,469 lines        ██████████████████░░░░░░░   70.73 % 
+Sonnet                   5,160 lines         ███████░░░░░░░░░░░░░░░░░░   29.27 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 62.75% of written lines came from AI
-📚 Verbose Prompter — average 2,087 characters per prompt
+🤖 AI-Driven — 73.75% of written lines came from AI
+📚 Verbose Prompter — average 2,278 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 43.16% of changed lines were hand-edited
+🚀 High AI Trust — 32.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -101,7 +101,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 17:46:13 UTC
+ Last Updated on 11/08/2026 17:51:40 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
