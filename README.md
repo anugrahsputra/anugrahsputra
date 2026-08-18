@@ -35,17 +35,17 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C363%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C363%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-270%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-271%20hrs%2017%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                444 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-🌆 Daytime                581 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-🌃 Evening                940 commits         ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-🌙 Night                  1220 commits        ██████████░░░░░░░░░░░░░░░   38.30 % 
+🌞 Morning                451 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+🌆 Daytime                597 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+🌃 Evening                955 commits         ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+🌙 Night                  1266 commits        ██████████░░░░░░░░░░░░░░░   38.73 % 
 ```
 
 
@@ -53,42 +53,42 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     12 hrs 17 mins      ███████████░░░░░░░░░░░░░░   44.46 % 
-Markdown                 6 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-Go                       3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-XML                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Dart                     9 hrs 42 mins       ████████████░░░░░░░░░░░░░   46.79 % 
+Markdown                 3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Go                       3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+XML                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 14 mins      █████████████░░░░░░░░░░░░   51.46 % 
-Neovim                   13 hrs 19 mins      ████████████░░░░░░░░░░░░░   48.18 % 
-Codex CLI                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Exec Wakatime            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Neovim                   11 hrs 38 mins      ██████████████░░░░░░░░░░░   56.13 % 
+Claude Code              9 hrs               ███████████░░░░░░░░░░░░░░   43.39 % 
+Codex CLI                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Exec Wakatime            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 11 mins (65.79%)
+⏱ AI Coding Time: 12 hrs 13 mins (58.97%)
 
-✍️ 16,362 lines written by AI, 1,570 lines written by hand (91.24% AI-written)
+✍️ 8,167 lines written by AI, 1,962 lines written by hand (80.63% AI-written)
 
-🔤 178,768,784 Input Tokens, 1,266,951 Output Tokens
+🔤 89,900,245 Input Tokens, 741,257 Output Tokens
 
-💵 $766.68 Estimated AI Cost This Week
+💵 $376.45 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 245 AI Prompts
+🧠 39 AI Sessions, 173 AI Prompts
 
-Sonnet                   9,125 lines         ██████████████░░░░░░░░░░░   55.32 % 
-Opus                     7,242 lines         ███████████░░░░░░░░░░░░░░   43.90 % 
-GPT                      128 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Sonnet                   4,113 lines         █████████████░░░░░░░░░░░░   50.03 % 
+Opus                     3,980 lines         ████████████░░░░░░░░░░░░░   48.41 % 
+GPT                      128 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 Exec-Wakatime            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.24% of written lines came from AI
-📚 Verbose Prompter — average 1,890 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 12.07% of changed lines were hand-edited
+🤖 AI-Driven — 80.63% of written lines came from AI
+📚 Verbose Prompter — average 1,571 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 24.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -104,7 +104,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 17:19:28 UTC
+ Last Updated on 18/08/2026 17:20:36 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
