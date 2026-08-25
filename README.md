@@ -35,9 +35,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C391%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C396%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-288%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-292%20hrs%2015%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -53,43 +53,43 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     17 hrs 50 mins      ███████████████░░░░░░░░░░   58.86 % 
-Go                       3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-YAML                     1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-Other                    1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Markdown                 1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Dart                     20 hrs 54 mins      ███████████████░░░░░░░░░░   60.29 % 
+Go                       3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Markdown                 2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Other                    2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+YAML                     1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 🔥 Editors: 
-Neovim                   16 hrs 31 mins      ██████████████░░░░░░░░░░░   54.48 % 
-Claude Code              13 hrs 2 mins       ███████████░░░░░░░░░░░░░░   43.00 % 
-Android Studio           23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Antigravity CLI          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Codex CLI                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Neovim                   18 hrs 34 mins      █████████████░░░░░░░░░░░░   53.56 % 
+Claude Code              15 hrs 11 mins      ███████████░░░░░░░░░░░░░░   43.81 % 
+Android Studio           23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Antigravity CLI          21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Codex CLI                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 8 mins (59.84%)
+⏱ AI Coding Time: 21 hrs 21 mins (61.58%)
 
-✍️ 2,964 lines written by AI, 6,878 lines written by hand (30.12% AI-written)
+✍️ 4,656 lines written by AI, 6,630 lines written by hand (41.25% AI-written)
 
-🔤 19,182,959 Input Tokens, 1,098,859 Output Tokens
+🔤 20,266,632 Input Tokens, 1,353,312 Output Tokens
 
-💵 $176.55 Estimated AI Cost This Week
+💵 $208.34 Estimated AI Cost This Week
 
-🧠 69 AI Sessions, 202 AI Prompts
+🧠 78 AI Sessions, 235 AI Prompts
 
-Opus                     2,769 lines         █████████████████████░░░░   82.34 % 
-GPT                      386 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Sonnet                   208 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Opus                     2,848 lines         ██████████████░░░░░░░░░░░   56.07 % 
+Sonnet                   1,845 lines         █████████░░░░░░░░░░░░░░░░   36.33 % 
+GPT                      386 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 30.12% of written lines came from AI
-📄 Detailed Prompter — average 1,255 characters per prompt
+⚖️ Balanced with AI — 41.25% of written lines came from AI
+📄 Detailed Prompter — average 1,122 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 70.61% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 61.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -105,7 +105,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 17:25:14 UTC
+ Last Updated on 25/08/2026 17:25:10 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
