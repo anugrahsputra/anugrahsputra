@@ -35,17 +35,17 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C431%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C443%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-317%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-325%20hrs%2057%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                480 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-🌆 Daytime                650 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-🌃 Evening                1049 commits        ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-🌙 Night                  1420 commits        ██████████░░░░░░░░░░░░░░░   39.46 % 
+🌞 Morning                479 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+🌆 Daytime                650 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+🌃 Evening                1048 commits        ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+🌙 Night                  1421 commits        ██████████░░░░░░░░░░░░░░░   39.49 % 
 ```
 
 
@@ -96,17 +96,17 @@ Mimo                     542 lines           █░░░░░░░░░░�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     37 repos            █████████░░░░░░░░░░░░░░░░   35.24 % 
-Kotlin                   16 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Go                       14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Dart                     37 repos            █████████░░░░░░░░░░░░░░░░   34.58 % 
+Kotlin                   16 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Go                       14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 ```
 
 
 
 
- Last Updated on 31/08/2026 21:44:54 UTC
+ Last Updated on 01/09/2026 19:44:22 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
