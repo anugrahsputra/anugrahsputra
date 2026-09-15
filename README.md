@@ -35,17 +35,17 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C516%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C523%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-364%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-367%20hrs%2056%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-🌆 Daytime                662 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-🌃 Evening                1066 commits        ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-🌙 Night                  1450 commits        ██████████░░░░░░░░░░░░░░░   39.60 % 
+🌞 Morning                484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+🌆 Daytime                662 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+🌃 Evening                1083 commits        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+🌙 Night                  1482 commits        ██████████░░░░░░░░░░░░░░░   39.94 % 
 ```
 
 
@@ -94,17 +94,17 @@ Codex-Cli                0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     37 repos            █████████░░░░░░░░░░░░░░░░   34.91 % 
-Kotlin                   16 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Go                       14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Dart                     37 repos            █████████░░░░░░░░░░░░░░░░   34.58 % 
+Kotlin                   16 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Go                       15 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 ```
 
 
 
 
- Last Updated on 14/09/2026 20:44:17 UTC
+ Last Updated on 15/09/2026 19:59:05 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
