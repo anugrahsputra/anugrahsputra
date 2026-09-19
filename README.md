@@ -35,9 +35,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C540%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C546%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-376%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-379%20hrs%2047%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -53,44 +53,44 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     23 hrs 40 mins      ██████████████████░░░░░░░   71.35 % 
-Markdown                 4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Go                       2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-Makefile                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Dart                     26 hrs 40 mins      ██████████████████░░░░░░░   71.09 % 
+Markdown                 5 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Go                       2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Other                    1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Makefile                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔥 Editors: 
-Neovim                   22 hrs 45 mins      █████████████████░░░░░░░░   68.60 % 
-Claude Code              9 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-Antigravity CLI          21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Codex CLI                16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Neovim                   25 hrs 15 mins      █████████████████░░░░░░░░   67.33 % 
+Claude Code              11 hrs 16 mins      ████████░░░░░░░░░░░░░░░░░   30.07 % 
+Codex CLI                22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Antigravity CLI          21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 24 mins (43.44%)
+⏱ AI Coding Time: 17 hrs 42 mins (47.22%)
 
-✍️ 11,621 lines written by AI, 3,577 lines written by hand (76.46% AI-written)
+✍️ 17,129 lines written by AI, 3,922 lines written by hand (81.37% AI-written)
 
-🔤 5,933,063 Input Tokens, 982,976 Output Tokens
+🔤 7,711,412 Input Tokens, 1,312,214 Output Tokens
 
-💵 $244.26 Estimated AI Cost This Week
+💵 $468.57 Estimated AI Cost This Week
 
-🧠 56 AI Sessions, 229 AI Prompts
+🧠 58 AI Sessions, 287 AI Prompts
 
-Opus                     8,943 lines         ███████████████████░░░░░░   76.65 % 
-Spark                    1,494 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-GPT                      1,230 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Opus                     13,884 lines        ████████████████████░░░░░   80.38 % 
+Spark                    2,159 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+GPT                      1,230 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.46% of written lines came from AI
-📚 Verbose Prompter — average 3,317 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 30.1% of changed lines were hand-edited
+🤖 AI-Driven — 81.37% of written lines came from AI
+📚 Verbose Prompter — average 3,855 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 23.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -106,7 +106,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 19:21:59 UTC
+ Last Updated on 19/09/2026 19:07:26 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
