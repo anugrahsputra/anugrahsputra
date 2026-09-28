@@ -35,9 +35,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C577%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C580%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-395%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-396%20hrs%2050%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -53,44 +53,44 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     19 hrs 54 mins      █████████████████░░░░░░░░   66.43 % 
-Go                       3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Markdown                 2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Other                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-Groovy                   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Dart                     20 hrs 8 mins       ████████████████░░░░░░░░░   62.74 % 
+Go                       4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Markdown                 4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Groovy                   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🔥 Editors: 
-Neovim                   19 hrs 29 mins      ████████████████░░░░░░░░░   65.06 % 
-Claude Code              10 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   33.66 % 
-Android Studio           15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Antigravity CLI          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Neovim                   21 hrs 50 mins      █████████████████░░░░░░░░   68.00 % 
+Claude Code              9 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.80 % 
+Android Studio           15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Antigravity CLI          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 50 mins (49.51%)
+⏱ AI Coding Time: 16 hrs 21 mins (50.93%)
 
-✍️ 9,914 lines written by AI, 6,899 lines written by hand (58.97% AI-written)
+✍️ 8,666 lines written by AI, 5,853 lines written by hand (59.69% AI-written)
 
-🔤 7,308,846 Input Tokens, 1,029,866 Output Tokens
+🔤 9,037,959 Input Tokens, 995,315 Output Tokens
 
-💵 $236.13 Estimated AI Cost This Week
+💵 $226.46 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 253 AI Prompts
+🧠 57 AI Sessions, 352 AI Prompts
 
-Opus                     8,998 lines         █████████████████████░░░░   84.68 % 
-Nemotron                 1,009 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Spark                    619 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Opus                     7,035 lines         ████████████████████░░░░░   78.42 % 
+Nemotron                 1,317 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Spark                    619 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 58.97% of written lines came from AI
-📚 Verbose Prompter — average 1,925 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 47.25% of changed lines were hand-edited
+⚖️ Balanced with AI — 59.69% of written lines came from AI
+📚 Verbose Prompter — average 1,747 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 46.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -106,7 +106,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 19:58:07 UTC
+ Last Updated on 28/09/2026 22:24:33 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
