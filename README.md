@@ -35,17 +35,17 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C616%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C619%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-424%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-425%20hrs%2010%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                493 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-🌆 Daytime                696 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-🌃 Evening                1130 commits        ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-🌙 Night                  1523 commits        ██████████░░░░░░░░░░░░░░░   39.64 % 
+🌞 Morning                492 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+🌆 Daytime                699 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+🌃 Evening                1131 commits        ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+🌙 Night                  1534 commits        ██████████░░░░░░░░░░░░░░░   39.78 % 
 ```
 
 
@@ -53,42 +53,42 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     17 hrs 39 mins      ███████████░░░░░░░░░░░░░░   42.53 % 
-Markdown                 14 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   34.03 % 
-Go                       3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-TypeScript               1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Other                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Dart                     17 hrs 17 mins      ███████████░░░░░░░░░░░░░░   44.50 % 
+Markdown                 14 hrs 31 mins      █████████░░░░░░░░░░░░░░░░   37.36 % 
+TypeScript               1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Other                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+YAML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 3 mins       █████████████░░░░░░░░░░░░   50.72 % 
-Neovim                   18 hrs 49 mins      ███████████░░░░░░░░░░░░░░   45.34 % 
-Codex CLI                1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Claude Code              21 hrs 2 mins       ██████████████░░░░░░░░░░░   54.16 % 
+Neovim                   16 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   41.35 % 
+Codex CLI                1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 12 mins (70.38%)
+⏱ AI Coding Time: 28 hrs 12 mins (72.62%)
 
-✍️ 26,386 lines written by AI, 5,363 lines written by hand (83.11% AI-written)
+✍️ 29,450 lines written by AI, 5,058 lines written by hand (85.34% AI-written)
 
-🔤 13,744,187 Input Tokens, 2,490,987 Output Tokens
+🔤 13,643,696 Input Tokens, 2,650,383 Output Tokens
 
-💵 $184.54 Estimated AI Cost This Week
+💵 $187.14 Estimated AI Cost This Week
 
-🧠 109 AI Sessions, 487 AI Prompts
+🧠 118 AI Sessions, 450 AI Prompts
 
-Opus                     26,406 lines        ████████████████████████░   97.38 % 
-Sonnet                   402 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Nemotron                 308 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Opus                     27,994 lines        ███████████████████████░░   92.62 % 
+Sonnet                   2,231 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.11% of written lines came from AI
-📚 Verbose Prompter — average 1,878 characters per prompt
+🤖 AI-Driven — 85.34% of written lines came from AI
+📚 Verbose Prompter — average 2,490 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 19.3% of changed lines were hand-edited
+🚀 High AI Trust — 17.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -104,7 +104,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 19:53:47 UTC
+ Last Updated on 05/10/2026 23:03:56 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
