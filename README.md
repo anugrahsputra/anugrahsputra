@@ -35,17 +35,17 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C676%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C680%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-468%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-470%20hrs%2018%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                495 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-🌆 Daytime                702 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-🌃 Evening                1192 commits        ████████░░░░░░░░░░░░░░░░░   30.42 % 
-🌙 Night                  1529 commits        ██████████░░░░░░░░░░░░░░░   39.03 % 
+🌆 Daytime                704 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+🌃 Evening                1192 commits        ████████░░░░░░░░░░░░░░░░░   30.41 % 
+🌙 Night                  1529 commits        ██████████░░░░░░░░░░░░░░░   39.01 % 
 ```
 
 
@@ -95,17 +95,17 @@ GPT                      0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     38 repos            █████████░░░░░░░░░░░░░░░░   35.19 % 
-Go                       16 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Kotlin                   16 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Dart                     38 repos            █████████░░░░░░░░░░░░░░░░   34.86 % 
+Go                       16 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Kotlin                   16 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 ```
 
 
 
 
- Last Updated on 15/10/2026 20:10:30 UTC
+ Last Updated on 16/10/2026 19:50:16 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
