@@ -35,9 +35,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C736%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C737%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-514%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-515%20hrs%204%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -53,44 +53,44 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 26 hrs 6 mins       ████████████░░░░░░░░░░░░░   47.88 % 
-Dart                     19 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   35.17 % 
-Go                       3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Other                    2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-YAML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Markdown                 26 hrs 1 min        ████████████░░░░░░░░░░░░░   49.05 % 
+Dart                     17 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   33.18 % 
+Go                       3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Other                    2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+YAML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🔥 Editors: 
-Claude Code              31 hrs 1 min        ██████████████░░░░░░░░░░░   56.90 % 
-Neovim                   15 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-Opencode Cli             7 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Antigravity CLI          1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Codex Vscode             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Claude Code              30 hrs 15 mins      ██████████████░░░░░░░░░░░   57.02 % 
+Neovim                   14 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+Opencode Cli             6 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Antigravity CLI          1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Codex Vscode             23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 hrs 28 mins (77.89%)
+⏱ AI Coding Time: 41 hrs 47 mins (78.74%)
 
-✍️ 24,624 lines written by AI, 7,458 lines written by hand (76.75% AI-written)
+✍️ 23,993 lines written by AI, 6,611 lines written by hand (78.4% AI-written)
 
-🔤 24,946,020 Input Tokens, 5,441,534 Output Tokens
+🔤 24,509,416 Input Tokens, 5,311,517 Output Tokens
 
-💵 $655.50 Estimated AI Cost This Week
+💵 $646.60 Estimated AI Cost This Week
 
-🧠 214 AI Sessions, 700 AI Prompts
+🧠 212 AI Sessions, 699 AI Prompts
 
-Opus                     14,609 lines        ███████████████░░░░░░░░░░   58.57 % 
-DeepSeek                 7,213 lines         ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-Sonnet                   2,159 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-GLM                      757 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Haiku                    145 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Opus                     13,968 lines        ██████████████░░░░░░░░░░░   57.46 % 
+DeepSeek                 7,213 lines         ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+Sonnet                   2,151 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+GLM                      757 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Haiku                    145 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.75% of written lines came from AI
-📚 Verbose Prompter — average 1,515 characters per prompt
+🤖 AI-Driven — 78.4% of written lines came from AI
+📚 Verbose Prompter — average 1,579 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 31.36% of changed lines were hand-edited
+🚀 High AI Trust — 29.42% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -106,7 +106,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 19:13:34 UTC
+ Last Updated on 25/10/2026 19:27:11 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
