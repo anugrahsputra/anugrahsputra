@@ -35,9 +35,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C749%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C759%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-524%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-533%20hrs%2040%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -53,44 +53,44 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 19 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   37.87 % 
-Dart                     16 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   31.29 % 
-Go                       5 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Other                    2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-YAML                     2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Markdown                 16 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   32.86 % 
+Dart                     16 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   32.47 % 
+Go                       5 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Other                    3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+YAML                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 🔥 Editors: 
-Claude Code              29 hrs 48 mins      ██████████████░░░░░░░░░░░   57.63 % 
-Neovim                   14 hrs 33 mins      ███████░░░░░░░░░░░░░░░░░░   28.15 % 
-Opencode Cli             5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Antigravity CLI          1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Codex Vscode             28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Claude Code              29 hrs 10 mins      ██████████████░░░░░░░░░░░   57.98 % 
+Neovim                   15 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   31.73 % 
+Opencode Cli             3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Antigravity CLI          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Codex Vscode             28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 hrs 26 mins (78.21%)
+⏱ AI Coding Time: 37 hrs 40 mins (74.89%)
 
-✍️ 25,026 lines written by AI, 68,232 lines written by hand (26.84% AI-written)
+✍️ 21,247 lines written by AI, 68,489 lines written by hand (23.68% AI-written)
 
-🔤 24,470,646 Input Tokens, 5,027,619 Output Tokens
+🔤 20,533,503 Input Tokens, 4,200,147 Output Tokens
 
-💵 $688.10 Estimated AI Cost This Week
+💵 $557.29 Estimated AI Cost This Week
 
-🧠 218 AI Sessions, 761 AI Prompts
+🧠 187 AI Sessions, 684 AI Prompts
 
-DeepSeek                 10,461 lines        ██████████░░░░░░░░░░░░░░░   41.33 % 
-Opus                     9,416 lines         █████████░░░░░░░░░░░░░░░░   37.20 % 
-Sonnet                   2,564 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Haiku                    1,722 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-GLM                      950 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Opus                     9,094 lines         ███████████░░░░░░░░░░░░░░   42.35 % 
+DeepSeek                 7,657 lines         █████████░░░░░░░░░░░░░░░░   35.66 % 
+Sonnet                   1,856 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Haiku                    1,722 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+GLM                      950 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 26.84% of written lines came from AI
-📚 Verbose Prompter — average 1,618 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 73.24% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 23.68% of written lines came from AI
+📚 Verbose Prompter — average 2,231 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 76.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -106,7 +106,7 @@ Rust                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 21:07:55 UTC
+ Last Updated on 28/10/2026 21:30:04 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
