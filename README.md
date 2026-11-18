@@ -42,10 +42,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-🌆 Daytime                893 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-🌃 Evening                1473 commits        ████████░░░░░░░░░░░░░░░░░   30.02 % 
-🌙 Night                  1955 commits        ██████████░░░░░░░░░░░░░░░   39.85 % 
+🌞 Morning                585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+🌆 Daytime                893 commits         █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+🌃 Evening                1473 commits        ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+🌙 Night                  1965 commits        ██████████░░░░░░░░░░░░░░░   39.97 % 
 ```
 
 
@@ -53,44 +53,44 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     26 hrs 24 mins      ███████████████░░░░░░░░░░   60.30 % 
-Markdown                 11 hrs 14 mins      ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
-Go                       1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Lua                      35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Dart                     25 hrs 11 mins      ███████████████░░░░░░░░░░   59.85 % 
+Markdown                 11 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+Other                    1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Go                       43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Text                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 45 mins      ██████████████░░░░░░░░░░░   54.23 % 
-Neovim                   18 hrs 50 mins      ███████████░░░░░░░░░░░░░░   43.03 % 
-Codex CLI                31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-OpenCode                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Android Studio           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Claude Code              25 hrs 41 mins      ███████████████░░░░░░░░░░   61.01 % 
+Neovim                   14 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   35.60 % 
+Codex CLI                47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Android Studio           23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+OpenCode                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 9 mins (73.4%)
+⏱ AI Coding Time: 31 hrs 43 mins (75.36%)
 
-✍️ 26,183 lines written by AI, 2,708 lines written by hand (90.63% AI-written)
+✍️ 22,943 lines written by AI, 2,054 lines written by hand (91.78% AI-written)
 
-🔤 17,075,429 Input Tokens, 3,129,998 Output Tokens
+🔤 17,962,423 Input Tokens, 3,005,663 Output Tokens
 
-💵 $588.89 Estimated AI Cost This Week
+💵 $390.50 Estimated AI Cost This Week
 
-🧠 115 AI Sessions, 510 AI Prompts
+🧠 126 AI Sessions, 558 AI Prompts
 
-Opus                     15,433 lines        ██████████████░░░░░░░░░░░   56.20 % 
-DeepSeek                 8,362 lines         ████████░░░░░░░░░░░░░░░░░   30.45 % 
-GLM                      2,450 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Sonnet                   1,040 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Haiku                    169 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Opus                     17,059 lines        ██████████████████░░░░░░░   70.22 % 
+DeepSeek                 2,845 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+GLM                      2,450 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Sonnet                   1,760 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Haiku                    169 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.63% of written lines came from AI
-📚 Verbose Prompter — average 1,806 characters per prompt
+🤖 AI-Driven — 91.78% of written lines came from AI
+📚 Verbose Prompter — average 1,948 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 11.02% of changed lines were hand-edited
+🚀 High AI Trust — 10.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -106,7 +106,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2026 16:57:07 UTC
+ Last Updated on 18/11/2026 23:16:52 UTC
 <!--END_SECTION:waka-->
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="anugrahsputra" />
